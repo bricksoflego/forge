@@ -4,10 +4,11 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Untitled Document</title>
+<title>FORGE - Home</title>
 </head>
 
 <body>
-	This is just a blank site for furture Forge.com
+	This is just a blank site for furture Forge.com<br/>
+	<? echo(date("m/d/y")) ?>
 </body>
 </html>
