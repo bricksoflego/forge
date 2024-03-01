@@ -7,7 +7,7 @@
 <title>Forge - Home</title>
 <link rel="stylesheet" href="Content/Scripts/site.css" />
 </head>
-
+<header></header>
 <body>
 	This is just a blank site for furture Forge.com<br/>
 	<? echo(date("m/d/y")) ?>
