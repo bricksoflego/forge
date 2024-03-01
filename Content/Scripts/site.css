@@ -1,0 +1,32 @@
+body {
+    padding: 15px 0 0 0;
+    margin: 0;
+    font-size: 12pt;
+}
+
+header {
+    width: 100%;
+    margin: 0 0 25px 0;
+    height: 95px;
+    background-color: darkred;
+	text-align: center;
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
+	box-shadow: 0 5px 8px rgb(0 0 0 / 0.1)
+}
+
+header img{
+	width: 125px;
+	margin-top: -15px;
+}
+
+main{
+	background:#F1F1F1;
+	min-width:350px;
+	max-width: 1600px;
+	border:1px solid #999;
+	margin:0 auto 15px auto;
+	padding:1em;
+	border-radius: .5em;
+	box-shadow: 0 5px 8px rgb(0 0 0 / 0.1)
+}
