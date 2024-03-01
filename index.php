@@ -4,7 +4,8 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Untitled Document</title>
+<title>Forge - Home</title>
+<link rel="stylesheet" href="/Content/Scripts/site.css" />
 </head>
 
 <body>
