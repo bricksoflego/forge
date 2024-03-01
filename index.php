@@ -4,12 +4,8 @@
 <html>
 <head>
 <meta charset="utf-8">
-<<<<<<< HEAD
-<title>FORGE - Home</title>
-=======
 <title>Forge - Home</title>
-<link rel="stylesheet" href="/Content/Scripts/aite.css" />
->>>>>>> origin/main
+<link rel="stylesheet" href="Content/Scripts/site.css" />
 </head>
 
 <body>
