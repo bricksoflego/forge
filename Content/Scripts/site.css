@@ -1,7 +1,9 @@
 body {
     padding: 15px 0 0 0;
     margin: 0;
+	font-family: Arial, "sans-serif" ,Helvetica;
     font-size: 12pt;
+	background:#F1F1F1;
 }
 
 header {
@@ -21,7 +23,7 @@ header img{
 }
 
 main{
-	background:#F1F1F1;
+	background:white;
 	min-width:350px;
 	max-width: 1600px;
 	border:1px solid #999;
@@ -29,4 +31,43 @@ main{
 	padding:1em;
 	border-radius: .5em;
 	box-shadow: 0 5px 8px rgb(0 0 0 / 0.1)
+}
+
+h1{
+	margin:0;
+	font-size: 3.5em;
+	font-family: 'CCBiffBamBoomOutline';
+	font-weight: normal;
+	font-style: normal;
+	margin-left:.3em;
+
+}
+
+h2{
+	margin:5px 0 0 0;
+	font-family: 'Classic Comic';
+	font-weight: 500;
+	font-style: normal;
+	text-align: end;
+}
+
+hr{
+	border: none;
+	background: #999;
+	height: 1px;
+	padding:0;
+	margin:3px 0 15px 0;
+}
+
+#divWelcome{
+	margin-bottom: 1em;
+	padding:10px;
+	border-radius: .5em;
+	text-align: center;
+}
+
+
+#divWelcome h1, #divWelcome h2{
+	display:inline-block;
+	vertical-align: top;
 }
